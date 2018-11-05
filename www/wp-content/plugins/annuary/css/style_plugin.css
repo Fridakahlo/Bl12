@@ -1,0 +1,45 @@
+.image_femme{
+	width: 200px;
+	border-radius: 50%;
+	margin-right: 20px;
+}
+.total_area{
+	display: flex;
+	justify-content: space-around;
+}
+.text_member{
+	flex: 1;
+	margin-left: 20px;
+}
+.member_presentation{
+	display: flex;
+}
+.company_name h3{
+	font-size: 2rem;
+	text-align: left;
+	margin-left: 200px;
+}
+h2.company{
+	margin: 0;
+}
+.member_presentation{
+	margin: 0;
+}
+.fname, .lname, .separator, .ptitle{
+	margin:0;
+}
+.fname, .lname, .separator{
+	margin-right: 0.5rem;
+}
+p.desc{
+	margin:0;
+}
+p.telephone{
+	margin:0;
+}
+#content.site-content{
+	
+	display: flex;
+
+}
+

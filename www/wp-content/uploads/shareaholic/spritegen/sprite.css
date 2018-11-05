@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Error</title>
+<style type="text/css">
+
+body {
+	background-color:	#e7f1fc;
+	margin:				0px;
+	font-family:		Lucida Grande, Verdana, Sans-serif;
+	font-size:			12px;
+	color:				#000;
+}
+
+#content  {
+	border:				#999 0px solid;
+	background-color:	#e7f1fc;
+	width:				500px;
+	color:black;
+	font-size:20px;
+	margin:150px auto 0;
+}
+
+h1 {
+color:#00C0FF;
+font-size:34px;
+font-weight:bold;
+margin: 0 0 4px 0;
+
+.s_info {color:	#EFF1F1; margin:auto 0; }
+
+}
+</style>
+</head>
+<body>
+	<div id="content">
+		<h1>Whoops!</h1>
+		<p>Looks like an error occured while processing your last request.</p><p>We've been notified and will take a look into it shortly.</p><p><small>Error #827</small></p>	</div>
+	
+	<div class="s_info">10.0.1.212 | www.shareaholic.com</div>
+	
+</body>
+</html>
